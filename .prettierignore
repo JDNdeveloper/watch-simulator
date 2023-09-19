@@ -1,0 +1,28 @@
+# Ignore build directories
+build/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore generated files
+dist/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore any .gitignored files
+*.ignored
+
+# Ignore specific files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignore hidden files
+.*
+
+# Ignore configuration files
+.prettierrc
+.eslintrc
